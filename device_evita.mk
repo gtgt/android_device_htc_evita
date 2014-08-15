@@ -73,6 +73,10 @@ PRODUCT_PACKAGES += \
     Tag \
     com.android.nfc_extras
 
+# WiFi
+PRODUCT_PACKAGES += \
+    libnetcmdiface
+    
 # Torch
 PRODUCT_PACKAGES += \
     Torch
